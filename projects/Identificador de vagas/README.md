@@ -2,6 +2,10 @@
 
 Este projeto foi desenvolvido como um experimento de Robótica Educacional para simular o funcionamento de um sistema de estacionamento inteligente. Ele utiliza sensores ultrassônicos para detectar a presença de veículos e fornecer feedback visual em tempo real.
 
+## 🚀 Simulação Online
+Você pode testar e visualizar o funcionamento deste projeto diretamente no seu navegador através do link abaixo:
+👉 https://www.tinkercad.com/things/eRrVUl1LKoD-identificador-de-vagas?sharecode=nSCMnaI7-dHB73wJici0OBqihDHfWJpKZfVPQc5Jtbg
+
 ## 🎯 Objetivos Pedagógicos
 - Compreender o funcionamento do sensor ultrassônico (HC-SR04).
 - Aplicar lógica de programação condicional (`if/else`) para tomada de decisão.
