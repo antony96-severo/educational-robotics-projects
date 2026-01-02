@@ -14,7 +14,7 @@ O objetivo deste repositório é documentar meu processo de aprendizagem e compa
 - `/projects` – Projetos completos de robôs, incluindo código e esquemas   
 
 ## 📚 Contexto Acadêmico
-Alguns dos projetos deste repositório foram desenvolvidos no contexto de disciplinas cursadas durante o curso de pós-graduação em Inovação, Inteligência Artificial e Robótica Educacional da Gran Faculdade.
+Alguns dos projetos deste repositório foram desenvolvidos no contexto de disciplinas cursadas durante o curso de pós-graduação em Inovação, Inteligência Artificial e Robótica Educacional, da Gran Faculdade.
 Todo o conteúdo é disponibilizado **exclusivamente para fins educacionais e de aprendizagem**.
 
 ---
