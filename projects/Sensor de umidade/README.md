@@ -35,10 +35,11 @@ Essa abordagem facilita a visualização prática do uso de sensores analógicos
 O código realiza leituras contínuas do sensor com um pequeno intervalo de **10 ms** para estabilidade, o código completo pode ser encontrado na pasta do projeto, mas a lógica é a seguinte:
 
 ```cpp
+// Leitura do sensor de umidade do solo
 if (analogRead(A0) <= 300) {
-    digitalWrite(12, HIGH); // Solo Seco
-    digitalWrite(13, LOW);
+    digitalWrite(12, LOW);  // LED verde desligado (solo seco)
+    digitalWrite(13, HIGH); // LED vermelho ligado (solo seco)
 } else {
-    digitalWrite(12, LOW);
-    digitalWrite(13, HIGH); // Solo Úmido
+    digitalWrite(12, HIGH); // LED verde ligado (solo úmido)
+    digitalWrite(13, LOW);  // LED vermelho desligado
 }
