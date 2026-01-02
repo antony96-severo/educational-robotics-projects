@@ -1,5 +1,4 @@
 # 🪴 Monitor de Umidade de Solo Inteligente
-arduino #roboticaeducacional #iot #sensordeumidade #tinkercad #stem #educacao
 
 ## sobre
 Projeto desenvolvido como experimento de **Robótica Educacional** para simular o monitoramento da hidratação de plantas. Utiliza um **sensor de umidade de solo analógico** para detectar o estado do solo e fornecer **feedback visual em tempo real** por meio de LEDs.
