@@ -7,12 +7,12 @@ Projeto desenvolvido como experimento de **Robótica Educacional** para simular 
 O projeto pode ser testado diretamente no navegador através do Tinkercad:  
 👉 https://www.tinkercad.com/things/hpZXp5pk3lg-projeto-sensor-de-umidade?sharecode=2DmjMTskPsJgY_8oANBasrzixq8QFXCsuGJ90Bx2VZo
 
-## objetivos
+## Objetivos
 - Compreender o funcionamento do sensor de umidade de solo analógico  
 - Aplicar lógica condicional (`if/else`) baseada em leituras analógicas  
 - Representar estados do sistema com LEDs (Solo Seco / Solo Úmido)
 
-## componentes
+## Componentes
 Arduino Uno R3
 sensor de umidade de solo (analógico)
 LED vermelho (solo seco) 
